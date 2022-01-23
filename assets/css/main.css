@@ -1,0 +1,16 @@
+.main-color {
+    background-color: #22212c;
+}
+
+.beta-color {
+    background-color: #14141b;
+}
+
+.upsercase {
+    text-transform: uppercase;
+}
+
+.radius-border {
+    border: none;
+    border-radius: 10px;
+}
