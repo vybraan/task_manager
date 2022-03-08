@@ -64,10 +64,6 @@ body {
 
 }
 
-/* .logo img {
-    width: 150px;
-} */
-
 
 .user_info {
     margin-bottom: 30px;
@@ -231,6 +227,16 @@ body {
 
 .profile1 {
     margin: 0 20px;
+
+}
+
+.dropdown a .profile1 {
+    text-decoration: none;
+    color: white;
+}
+
+.dropdown {
+    margin-left: 20px;
 }
 
 
