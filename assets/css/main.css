@@ -14,3 +14,8 @@
     border: none;
     border-radius: 10px;
 }
+
+.left-navbar {
+    width: 250px;
+    position: fixed;
+}
